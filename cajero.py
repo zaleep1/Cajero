@@ -13,6 +13,7 @@ BACKUP_SUFFIX = ".bak"
 FECHA_FMT = "%Y-%m-%d %H:%M:%S"
 SALDO_MINIMO = 50000
 MULTIPLO = 10000
+f = []
 
 
 # Utilidades
